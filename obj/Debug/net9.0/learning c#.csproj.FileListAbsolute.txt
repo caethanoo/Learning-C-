@@ -1,0 +1,14 @@
+/home/brenndinha/dev/learning c#/bin/Debug/net9.0/learning c#
+/home/brenndinha/dev/learning c#/bin/Debug/net9.0/learning c#.deps.json
+/home/brenndinha/dev/learning c#/bin/Debug/net9.0/learning c#.runtimeconfig.json
+/home/brenndinha/dev/learning c#/bin/Debug/net9.0/learning c#.dll
+/home/brenndinha/dev/learning c#/bin/Debug/net9.0/learning c#.pdb
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.AssemblyInfoInputs.cache
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.AssemblyInfo.cs
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.csproj.CoreCompileInputs.cache
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.dll
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/refint/learning c#.dll
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.pdb
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/learning c#.genruntimeconfig.cache
+/home/brenndinha/dev/learning c#/obj/Debug/net9.0/ref/learning c#.dll
