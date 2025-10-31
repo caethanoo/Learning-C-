@@ -1,0 +1,15 @@
+/home/brenndinha/dev/csharp/arrays/arrays/bin/Debug/net9.0/arrays
+/home/brenndinha/dev/csharp/arrays/arrays/bin/Debug/net9.0/arrays.deps.json
+/home/brenndinha/dev/csharp/arrays/arrays/bin/Debug/net9.0/arrays.runtimeconfig.json
+/home/brenndinha/dev/csharp/arrays/arrays/bin/Debug/net9.0/arrays.dll
+/home/brenndinha/dev/csharp/arrays/arrays/bin/Debug/net9.0/arrays.pdb
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.AssemblyInfoInputs.cache
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.AssemblyInfo.cs
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.csproj.CoreCompileInputs.cache
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.sourcelink.json
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.dll
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/refint/arrays.dll
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.pdb
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/arrays.genruntimeconfig.cache
+/home/brenndinha/dev/csharp/arrays/arrays/obj/Debug/net9.0/ref/arrays.dll
